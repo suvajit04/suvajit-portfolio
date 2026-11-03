@@ -38,15 +38,6 @@ npm run start
 - `/projects/poy-calculator` — POY Utility Calculators details
 - `/contact` — Contact form with a mailto fallback
 
-## Documents
-
-The PDF files are in `public/documents/`:
-
-- `Suvajit_Sahoo_Resume.pdf`
-- `HisNet_Final_Year_Project_Report.pdf`
-
-The resume download and HisNet report viewer use these files directly.
-
 ## Personalization checklist
 
 1. Verify all profile details before publishing.
@@ -55,12 +46,6 @@ The resume download and HisNet report viewer use these files directly.
 4. If you want a server-backed contact form, connect a provider or API endpoint. The current contact form intentionally uses a `mailto:` fallback and clearly tells the visitor that they must send the email from their email app.
 5. Set `NEXT_PUBLIC_SITE_URL` in your deployment environment if the deployed domain differs from the configured default.
 
-## Accuracy notes
-
-- HisNet model implementation details follow the uploaded project report, which describes the TensorFlow Functional API. PyTorch is retained in the separate resume skill list and is not represented as the implementation framework for HisNet.
-- The research page reports training accuracy (90.41%), validation accuracy (86.96%), independent test accuracy (95.43%), and 500 training epochs as stated in the report.
-- The portfolio does not fabricate per-epoch chart data, GitHub repository metrics, or clinical validation claims.
-- MedPulse and the Task Management System are described only from the resume information supplied.
 
 ## Deploy
 
