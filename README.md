@@ -40,7 +40,7 @@ npm run start
 
 ## Live demo
 
-- https://kaleidoscopic-madeleine-9df624.netlify.app/
+- https://suvajitportfolioo.netlify.app/
 
 ## Deploy
 
