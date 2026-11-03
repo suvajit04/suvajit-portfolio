@@ -38,6 +38,10 @@ npm run start
 - `/projects/poy-calculator` — POY Utility Calculators details
 - `/contact` — Contact form with a mailto fallback
 
+## Live demo
+
+- https://kaleidoscopic-madeleine-9df624.netlify.app/
+
 ## Deploy
 
 The project can be deployed to Vercel or another Node.js hosting provider. For Netlify, use the Next.js runtime/plugin supported by your chosen Netlify setup and run `npm run build`.
